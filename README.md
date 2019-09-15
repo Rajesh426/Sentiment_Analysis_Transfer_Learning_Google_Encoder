@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Transfer_Learning_Google_Encoder
+# Sentiment_Analysis_Transfer_Learning_Google_gnews_Encoder
 Using Google colab for sentiment Analysis using the pre trained Google gnews model for the IMDB dataset for review <br>
 # Dataset <br>
 Dataset is IMDB review dataset with positive and negative reviews <br>
